@@ -14,6 +14,8 @@ Get in touch if you have ay queries.
 
 I have a shortcut on my Windows Desktop, from here I double click and voila it launches Ubuntu Linux.
 
+![Ubuntu Icon Task bar](https://github.com/La-Velle/python-automate-boring/blob/instructions/ubuntu-desktop.png)
+
 `visual studio`
 
 I launch Visual Studio from within WSL, as follows:
