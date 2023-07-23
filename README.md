@@ -14,7 +14,7 @@ Get in touch if you have ay queries.
 
 I have a shortcut on my Windows Desktop, from here I double click and voila it launches Ubuntu Linux.
 
-![Ubuntu Icon Task bar](https://github.com/La-Velle/python-automate-boring/blob/instructions/ubuntu-desktop.png)
+![Ubuntu Icon Task bar](static/ubuntu-desktop.png)
 
 `visual studio`
 
@@ -25,8 +25,43 @@ cd ~/python-automate-boring
 code .
 ```
 
-I run Visual Studio from
-
-`WSL (Ubuntu)`
-
 `python3`
+```
+python3 <filename.py>
+```
+
+`git`
+```
+git status
+
+#switch to the main branch
+git checkout main
+
+#create a new branch
+git checkout -b my-new-branch
+
+git add <myfile>
+
+git commit -m "my latest changes"
+
+git push
+```
+
+`Linux`
+```
+cd ..
+
+cd <directory-name>
+
+ll -a
+
+pwd
+
+mkdir <my-new-directory>
+```
+
+`Windows short-cuts`
+
+```
+alt-tab
+```
